@@ -1,3 +1,17 @@
+# Compiled Files Python 
 **/__pycache__
 .pytest_cache
+
+# Virtual Environment 
 venv
+
+# Environment Variables and Credentials
+.env
+
+# Distribution Files
+buil/
+dist/
+*.egg-info/
+
+# Database and Logs
+*.log
